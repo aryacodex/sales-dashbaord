@@ -28,4 +28,5 @@ Here's what makes this dashboard special:
 
 With this dashboard, I've made complex sales data easy to understand and act upon. 💼 Let's chat about how it can supercharge your sales strategy!
 
-#PowerBI #SalesInsights #DataMadeSimple #BusinessSuccess #LinkedInUpdate #SalesDashboard #ActionableData
+
+
